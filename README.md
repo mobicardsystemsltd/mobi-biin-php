@@ -1,2 +1,2 @@
-# mobi-biin
+# MobiBiin
 PHP implementation of Mobi-Biin API
